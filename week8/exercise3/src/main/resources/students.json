@@ -1,0 +1,34 @@
+[ {
+  "id" : 0,
+  "firstName" : "John",
+  "lastName" : "Cena",
+  "dateOfBirth" : 57811356000000,
+  "graduated" : true,
+  "address" : {
+    "city" : "Buciuresti",
+    "zipcode" : "1000002",
+    "addressLine" : "ce-i asta"
+  }
+}, {
+  "id" : 48912,
+  "firstName" : "jesse",
+  "lastName" : "pinkman",
+  "dateOfBirth" : 60371215200000,
+  "graduated" : true,
+  "address" : {
+    "city" : "Albaquerque",
+    "zipcode" : "random street",
+    "addressLine" : "12345"
+  }
+}, {
+  "id" : 1,
+  "firstName" : "Jack",
+  "lastName" : "Son",
+  "dateOfBirth" : 62399365200000,
+  "graduated" : false,
+  "address" : {
+    "city" : "Timisoreana",
+    "zipcode" : "123123",
+    "addressLine" : "que es esto"
+  }
+} ]
